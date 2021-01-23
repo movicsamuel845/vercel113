@@ -1,0 +1,4 @@
+baseURL = "https://gardencitynatures.vercel.app"
+languageCode = "en-us"
+title = "City Garden 1"
+theme = "tale-hugo-master"
